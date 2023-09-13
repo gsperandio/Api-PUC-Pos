@@ -41,7 +41,7 @@ app.post('/crescente', (req, res) => {
   const { numeros } = req.body;
 
   if (!numeros) {
-    return res.status(400).json({ error: 'Por favor, forneça números separados por ;.' });
+    return res.status(400).json({ error: 'Por favor, forneça números separados por ;' });
   }
 
   const numerosArray = numeros.split(';').map(Number);

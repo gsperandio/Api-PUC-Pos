@@ -18,18 +18,18 @@ Este é um projeto de API Node.js simples. Siga as instruções abaixo para baix
 
 1. Clone o repositório do Git em sua máquina local:
 
-```
+```bash
 git clone https://github.com/gsperandio/Api-PUC-Pos.git
 ```
 
 <br />
 2. Instale as dependências do projeto:
-```
+```bash
 npm install
 ```
 <br />
 3. Inicie o projeto:
-```
+```bash
 node server.js
 ```
 

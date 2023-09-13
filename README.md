@@ -23,12 +23,17 @@ git clone https://github.com/gsperandio/Api-PUC-Pos.git
 ```
 
 <br />
+
 2. Instale as dependências do projeto:
+
 ```bash
 npm install
 ```
+
 <br />
+
 3. Inicie o projeto:
+
 ```bash
 node server.js
 ```
